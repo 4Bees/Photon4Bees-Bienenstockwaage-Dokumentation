@@ -3,7 +3,7 @@
 Die Kalibrierung der Bienenstockwaage erfolgt über drei Schritte die in einem einfachen Webformular zusammengefasst wurden.
 Besuchen Sie die Internetseite [4Bees.at](https://www.4bees.at/web/guest/kalibrierung)
 
-![Kalibrierung der Bienenstockwaage](../images/Kalibrierung.JPG)
+![Kalibrierung der Bienenstockwaage](../images/Kalibrierung.jpg)
 
 1.) Geben Sie den API-Key und die Kanal ID Ihres cloud4Bees Kanales ein und drücken Sie den Button Scalefactor=1 und Offset=0 setzen. Im Feld 7 Ihres Kanales erscheint der Wert 1 und im Feld 8 der Wert 0.
 
