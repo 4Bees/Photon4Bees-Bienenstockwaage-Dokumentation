@@ -3,7 +3,7 @@
 
 Was beinhaltet der Bausatz?
 
-![Photon4Bees - WLAN - Bienenstockwaage](../images/Photon4Bees-Bienenstockwaage-Bausatz.jpg)
+![Photon4Bees - WLAN - Bienenstockwaage](images/Photon4Bees-Bienenstockwaage-Bausatz.jpg)
 
 Gratulation! Sie sind nun ein glücklicher Besitzer eines Bausatzes für eine Photon4Bees - Bienenstockwaage. Der Bausatz beinhaltet alle Teile für den Zusammenbau einer WLAN-Bienenstockwaage mit dem Photon Microcontrollerboard von Particle.
 
@@ -29,4 +29,4 @@ Gratulation! Sie sind nun ein glücklicher Besitzer eines Bausatzes für eine Ph
 
 **Gehäuse.** Durch das Gehäuse ist die gesamte Elektronik nach dem IP67 Standard vor Staub und Feuchtigkeit geschützt.
 
-![Photon4Bees - WLAN - Bienenstockwaage - Elektronik - Bausatz](../images/Photon4Bees-Elektronik-Bausatz.jpg)
+![Photon4Bees - WLAN - Bienenstockwaage - Elektronik - Bausatz](images/Photon4Bees-Elektronik-Bausatz.jpg)
