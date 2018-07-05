@@ -1,7 +1,7 @@
 # Kalibrierung der Bienenstockwaage [](id=kalibrierung-der-bienenstockwaage)
 
 Die Kalibrierung der Bienenstockwaage erfolgt über drei Schritte die in einem einfachen Webformular zusammengefasst wurden.
-Besuchen Sie die Internetseite [4Bees.at](https://www.4bees.at/web/guest/kalibrierung)
+Besuchen Sie die Internetseite [4Bees.at](http://www.4bees.at/web/guest/photon4bees-kalibrierung)
 
 ![Kalibrierung der Bienenstockwaage](../images/Kalibrierung.JPG)
 

@@ -7,7 +7,7 @@ Dies erfolgt über die Datenplattform cloud4Bees. Jeder Besitzer einer Photon4Be
 
 Besuchen Sie die Datenplattform cloud4Bees.at und wählen Sie den Menüpunkt Registrieren:
 
-![Registrierung bei cloud4Bees](..images/cloud4Bees-Registrierung.JPG)
+![Registrierung bei cloud4Bees](../images/cloud4Bees-Registrierung.JPG)
 
 Füllen Sie das Registrierungsformular aus und Sie erhalten Zugang zur Datenplattform cloud4Bees.at.
 
@@ -16,7 +16,7 @@ Füllen Sie das Registrierungsformular aus und Sie erhalten Zugang zur Datenplat
 
 Nachdem Sie sich bei cloud4Bees.at angemeldet haben können Sie einen Kanal erstellen. Wählen Sie im Menü Meine Kanäle und klicken Sie auf den Button Erstellen:
 
-![Kanal erstellen bei cloud4Bees](..images/cloud4Bees-Kanal-erstellen.JPG)
+![Kanal erstellen bei cloud4Bees](../images/cloud4Bees-Kanal-erstellen.JPG)
 
 Jeder Kanal erhält einen API-Schlüssel und eine Kanal ID. Diese benötigen Sie, um eine Verbindung mit der Bienenstockwaage herzustellen.
 
@@ -24,7 +24,7 @@ Jeder Kanal erhält einen API-Schlüssel und eine Kanal ID. Diese benötigen Sie
 
 Dieser Prozess wurde wesentlich vereinfacht und erfolgt nun über ein einfaches Formular. Den Rest erledigt ein Javascript-Programm im Hintergrund. Achten Sie darauf, dass ihr Browser Cookies erlaubt, damit das Programm ungehindert arbeiten kann.
 
-Besuchen Sie die Internetseite  [4Bees.at](https://www.4bees.at/web/guest/cloud4bees). und füllen das folgende Formular aus.
+Besuchen Sie die Internetseite  [4Bees.at](http://www.4bees.at/web/guest/photon4bees070-cloud4bees). und füllen das folgende Formular aus.
 
 ![cloud4Bees - Verbindung herstellen](../images/cloud4Bees-Verbindung-herstellen.JPG)
 
