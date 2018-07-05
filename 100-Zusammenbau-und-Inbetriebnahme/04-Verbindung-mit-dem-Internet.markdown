@@ -12,7 +12,7 @@ Wenn Sie zu einem späteren Zeitpunkt die WLAN-Konfiguration ändern wollen, mü
 
 Gehen Sie bei Ihrem Smartphone auf die WLAN-Einstellungen. Schalten Sie Ihr WLAN am Smartphone ein und wählen Photon-xxxxxx als WLAN-Netz. Sobald Sie mit dem Photon-xxxxxx WLAN-Netz verbunden sind öffnen Sie Ihren Internet-Browser am Smartphone. Geben Sie im Eingabefeld die URL: 192.168.0.1 ein. Auf Ihrem Smartphone sollte nun folgende Seite erscheinen.
 
-![Smartphone mit Bienenstockwaage verbinden](..images/WLAN-Konfiguration_1.JPG)
+![Smartphone mit Bienenstockwaage verbinden](../images/WLAN-Konfiguration_1.JPG)
 
 Klicken Sie nun auf den Scan-Button. Nun werden alle verfügbaren WLAN-Netze angegeben.
 
@@ -20,6 +20,6 @@ Klicken Sie nun auf den Scan-Button. Nun werden alle verfügbaren WLAN-Netze ang
 
 Wählen Sie das gwünschte WLAN-Netz aus und geben Sie das entsprechende Passwort ein. Drücken Sie den Connect-Button. Die Photon4Bees-Bienenstockwaage verbindet sich jetzt mit dem Internet.
 
-![WLAN Konfiguration](..images/WLAN-Konfiguration_2.JPG)
+![WLAN Konfiguration](../images/WLAN-Konfiguration_2.JPG)
 
 Die LED blinkt zunächst grün (Verbindung mit dem Internet wird hergestellt), dann Cyan (Verbindung mit der Particle-Cloud wird hergestellt) und schließlich pulsiert die LED in Cyan (das Photon ist mit der Particle-Cloud verbunden).
