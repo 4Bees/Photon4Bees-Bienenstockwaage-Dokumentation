@@ -5,7 +5,7 @@ Dies erfolgt über die Datenplattform cloud4Bees. Jeder Besitzer einer Photon4Be
 
 ### Erstellung eines Kontos auf cloud4Bees.at
 
-Besuchen Sie die Datenplattform cloud4Bees.at und wählen Sie den Menüpunkt Registrieren:
+Besuchen Sie die Datenplattform  [cloud4Bees.at](http://cloud.4bees.at/) und wählen Sie den Menüpunkt Registrieren:
 
 ![Registrierung bei cloud4Bees](../images/cloud4Bees-Registrierung.JPG)
 
@@ -24,7 +24,7 @@ Jeder Kanal erhält einen API-Schlüssel und eine Kanal ID. Diese benötigen Sie
 
 Dieser Prozess wurde wesentlich vereinfacht und erfolgt nun über ein einfaches Formular. Den Rest erledigt ein Javascript-Programm im Hintergrund. Achten Sie darauf, dass ihr Browser Cookies erlaubt, damit das Programm ungehindert arbeiten kann.
 
-Besuchen Sie die Internetseite  [4Bees.at](http://www.4bees.at/web/guest/photon4bees070-cloud4bees). und füllen das folgende Formular aus.
+Besuchen Sie die Internetseite  [Photon4Bees070-cloud4Bees](http://www.4bees.at/web/guest/photon4bees070-cloud4bees). und füllen das folgende Formular aus.
 
 ![cloud4Bees - Verbindung herstellen](../images/cloud4Bees-Verbindung-herstellen.JPG)
 
