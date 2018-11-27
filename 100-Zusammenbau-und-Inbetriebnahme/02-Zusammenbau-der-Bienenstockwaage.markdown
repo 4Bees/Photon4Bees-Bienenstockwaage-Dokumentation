@@ -16,6 +16,8 @@
 
 * Das Photon wird jetzt über ein zweipoliges Kabel mit Strom versorgt. Verbinden Sie das Kabel mit dem Stecker der mit Board beschriftet ist und das andere Ende mit der Batteriebuchse auf dem Microcontrollerboard.
 
-* Der Ein-/Ausschalter wird mit zwei Steckern mit dem Breakoutboard verbunden. Die zwei inneren Kabel am Schalter werden mit On/Off am Breakoutboard verbunden. Die beiden  äußeren Kabel (diese sind mit +/- am Schalter gekennzeichnet) werden mit LED/D3 am Breakoutboard verbunden.
+* Der Ein-/Ausschalter wird an die ON/OFF - Pins mit dem Breakoutboard verbunden.
 
-* Die externe Stromversorgung (Solarzelle, Powerbank, Ladegerät,...) wird über eine 5.1 mm Klinkenbuchse mit der Bienenstockwaage verbunden. Die Klinkenbuchse wird über ein 2-poliges Kabel mit dem Breakoutboard (Buchse) verbunden.
+* Die RGB-LED wird an die Eingänge D0 - D3 mit dem Breakoutboard verbunden.
+
+* Die externe Stromversorgung (Solarzelle, Powerbank, Ladegerät,...) wird über eine 5.1 mm Klinkenbuchse mit der Bienenstockwaage verbunden. Die Klinkenbuchse wird über ein 2-poliges Kabel mit der 2-poligen Klemmleiste am Photon-Powershield  verbunden.

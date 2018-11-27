@@ -1,16 +1,16 @@
 # Verbindung mit dem Internet [](id=verbindung-mit-dem-Internet)
 
 Das WLAN-Modul des Photon ermöglicht es, die Photon4Bees-Bienenstockwaage mit dem Internet zu verbinden. Die Verbindung mit dem Internet erfolgt über die gleiche Weise wie es ein Smartphone macht.
-Da die Bienenstockwaage allerdings keine Eingabemöglichkeit (Touchscreen bzw. Tastatur) hat, muss die Bienenstockwaage zunächst einen Hotspot zur Verfügung stellen. Über den Hotspot kann dann ein Smartphone mit der Stockwaage verbunden werden und die WLAN-Konfiguration vorgenommen werden.
+Da die Bienenstockwaage allerdings keine Eingabemöglichkeit (Touchscreen bzw. Tastatur) hat, muss die Bienenstockwaage zunächst einen Hotspot zur Verfügung stellen. Über den Hotspot kann dann ein Smartphone bzw. der PC mit der Stockwaage verbunden werden und die WLAN-Konfiguration vorgenommen werden.
 
 ### WLAN-Hotspot erstellen
 
 Beim ersten Mal einschalten der Stockwaage, beginnt die LED blau zu leuchten. Dies bedeutet, dass das Photon einen WLAN-Hotspot zur Verfügung stellt.
 Wenn Sie zu einem späteren Zeitpunkt die WLAN-Konfiguration ändern wollen, müssen Sie einfach bevor Sie die Bienenstockwaage einschalten den linken Taster drücken und solange halten bis Sie den EIN/AUS-Schalter auf EIN gestellt haben. Die LED sollte nun ebenfalls blau blinken.
 
-### Smartphone mit der Bienenstockwaage verbinden
+### Smartphone bzw. PC mit der Bienenstockwaage verbinden
 
-Gehen Sie bei Ihrem Smartphone auf die WLAN-Einstellungen. Schalten Sie Ihr WLAN am Smartphone ein und wählen Photon-xxxxxx als WLAN-Netz. Sobald Sie mit dem Photon-xxxxxx WLAN-Netz verbunden sind öffnen Sie Ihren Internet-Browser am Smartphone. Geben Sie im Eingabefeld die URL: 192.168.0.1 ein. Auf Ihrem Smartphone sollte nun folgende Seite erscheinen.
+Gehen Sie bei Ihrem Smartphone bzw. PC auf die WLAN-Einstellungen. Schalten Sie Ihr WLAN am Smartphone bzw. PC ein und wählen Photon-xxxxxx als WLAN-Netz. Sobald Sie mit dem Photon-xxxxxx WLAN-Netz verbunden sind öffnen Sie Ihren Internet-Browser am Smartphone bzw. PC. Geben Sie im Eingabefeld die URL: 192.168.0.1 ein. Auf Ihrem Smartphone bzw. PC sollte nun folgende Seite erscheinen.
 
 ![Smartphone mit Bienenstockwaage verbinden](../images/WLAN-Konfiguration_1.JPG)
 

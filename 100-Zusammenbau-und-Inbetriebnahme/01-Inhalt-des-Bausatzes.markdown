@@ -9,13 +9,13 @@ Gratulation! Sie sind nun ein glücklicher Besitzer eines Bausatzes für eine Ph
 
 **Wägemodul.** Das Wägemodul besteht aus der Wägezelle H40A von Bosche, einem Wägegestell aus Aluminum und den erforderlichen Kleinteilen für den Zusammenbau des Wägemoduls.
 
-**Particle Photon.** Das Photon Microcontrollerboard von Particle ist das  Herzstück der Photon4Bees-Bienenstockwaage und dadurch auch der Namensgeber für die Waage. Das Photon ist ein Microcontrollerboard mit integriertem WLAN-Bienenstockwaage-Modul. Der große Vorteil gegenüber anderen Microcontrollerboards mit WLAN Modul sind die verschiedenen Cloudservices die von Particle zur Verfügung gestellt werden. Die Programmierung und Admistration der Geräte wird dadurch wesentlich vereinfacht.
+**Particle Photon.** Das Photon Microcontrollerboard von Particle ist das  Herzstück der Photon4Bees-Bienenstockwaage und dadurch auch der Namensgeber für die Waage. Das Photon ist ein Microcontrollerboard mit integriertem WLAN-Modul. Der große Vorteil gegenüber anderen Microcontrollerboards mit WLAN Modul sind die verschiedenen Cloudservices die von Particle zur Verfügung gestellt werden. Die Programmierung und Admistration der Geräte wird dadurch wesentlich vereinfacht.
 
 **Particle Power Shield** Das Particle Powershield ist die beste Mögichkeit, das Photon mit Strom zu versorgen und die Batterie zu laden. Die externe Spannung darf dabei zwischen 7v und 20 V liegen.
 
 **Messverstärker-Modul HX711.** Der HX711 Messverstärker ist schon beinahe Standard bei den meisten Waagen-Projekten. Er ist genau, zuverlässig und auch sehr günstig. Bibliotheken für die Programmierung sind für beinahe alle Microcontrollerboards vorhanden.
 
-**Breakoutboard.** Damit der Zusammenbau der Bienenstockwaage ohne Lötkolben und elektronische Erfahrung möglich ist, haben wir das Breakoutboard entwickelt. Alle Teile können dadurch mit Steck- oder Schraubverbindungen mit einander verbunden werden. Der Aufbau der Waage ist für jeden nachvollziehbar und in weniger als einer Stunde möglich.
+**Breakoutboard.** Damit der Zusammenbau der Bienenstockwaage ohne Lötkolben und elektronische Erfahrung möglich ist, haben wir das Breakoutboard entwickelt. Alle Teile können dadurch mit Steck- oder Schraubverbindungen miteinander verbunden werden. Der Aufbau der Waage ist für jeden nachvollziehbar und in weniger als einer Stunde möglich.
 
 **Antenne.** Die Antenne ist notwendig, um den WLAN-Router zu erreichen und das Photon Microcontrollerboard mit dem Internet zu verbinden.
 
