@@ -10,6 +10,7 @@ Hinweis: Sie können Ihre Adressdaten unter Kontoeinstellungen speichern, dann w
 
 
 Die Registrierun erfolgt nun über ein einfaches Webformular. Wählen Sie den Menüpunkt [Registrierung](http://www.4bees.at/registrierung). und füllen Sie das folgende Formular aus.
+![Registrierung](../images/Registrierung.JPG)
 
 Wichtig: Bevor Sie den Save-Button klicken muss die Photon4Bees-BienenstockwaageStockwaage mit der Cloud verbunden sein. Schalten Sie die Waage ein und warten Sie bis die LED in der Farbe Cyan pulsiert. Klicken Sie jetzt den Button Save.
 
